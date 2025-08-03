@@ -5,8 +5,8 @@
     </p>Importance Of creating a Scale Set
    <li>i) Scale Set provides high availability and application resiliency by distributing VMs across availability zones or fault domains  
    <li>ii) Scale Set distribute equal amount of network traffic
-   <li></li>Scale Set makes it easy to create and manage multiple VMs
-  <li>It allows your application to automatically scale as resource demand changes 
+   <li>iii)Scale Set makes it easy to create and manage multiple VMs
+  <li>iv)It allows your application to automatically scale as resource demand changes 
       
       
     <h2>Prerequisites</h2>
