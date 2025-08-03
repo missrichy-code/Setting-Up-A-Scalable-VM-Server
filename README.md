@@ -1,9 +1,4 @@
-# Setting-Up-A-Scalable-VM-Server
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>How to Set Up a Scalable Virtual Machine in Azure</title>
+  <title>How to Set Up a Scalable Virtual Machine in Azure</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 2em; }
         h1 { color: #0078d4; }
