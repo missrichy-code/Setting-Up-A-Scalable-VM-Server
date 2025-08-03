@@ -3,7 +3,7 @@
     <p>
         This document provides detailed instructions on how to set up a scalable virtual machine in Azure.
     </p>Importance Of creating a Scale Set
-    i) Scale Set provides high availability and application resiliency by distributing VMs across availability zones or fault domains  
+   < i) Scale Set provides high availability and application resiliency by distributing VMs across availability zones or fault domains  
     ii) Scale Set distribute equal amount of network traffic
    iii) Scale Set makes it easy to create and manage multiple VMs
    iv) It allows your application to automatically scale as resource demand changes 
