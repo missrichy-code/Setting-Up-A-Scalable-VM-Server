@@ -1,13 +1,5 @@
-  <title>How to Set Up a Scalable Virtual Machine in Azure</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 2em; }
-        h1 { color: #0078d4; }
-        code, pre { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
-        ol { margin-left: 1.5em; }
-    </style>
-</head>
-<body>
-    <h1>How to Set Up a Scalable Virtual Machine in Azure</h1>
+
+  <h1>How to Set Up a Scalable Virtual Machine in Azure</h1>
     <p>
         This document provides detailed instructions on how to set up a scalable virtual machine in Azure.
     </p>
