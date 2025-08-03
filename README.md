@@ -2,7 +2,7 @@
   <h1>How to Set Up a Scalable Virtual Machine in Azure</h1>
     <p>
         This document provides detailed instructions on how to set up a scalable virtual machine in Azure.
-    </p>
+    </p>W
     <h2>Prerequisites</h2>
     <ul>
         <li>An active Azure account.</li>
