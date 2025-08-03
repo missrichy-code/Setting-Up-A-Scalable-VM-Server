@@ -8,7 +8,7 @@
    <li>iii)Scale Set makes it easy to create and manage multiple VMs
   <li>iv)It allows your application to automatically scale as resource demand changes 
   </p>   There are (2) types of Scaling 
-  <li></li>Horizontal & Vertical Scaling
+  </li>Horizontal & Vertical Scaling
     <h2>Prerequisites</h2>
     <ul>
         <li>An active Azure account.</li>
