@@ -2,7 +2,7 @@
   <h1>How to Set Up a Scalable Virtual Machine in Azure</h1>
     <p>
         This document provides detailed instructions on how to set up a scalable virtual machine in Azure.
-    </p>A Scalable VM refers to a virtual machine that is designed to scale resources up and down based on demand such as CPU, memory, dick or network capacity within a cloud or vitualized environment
+    <li>A Scalable VM refers to a virtual machine that is designed to scale resources up and down based on demand such as CPU, memory, dick or network capacity within a cloud or vitualized environment
     </p>Importance Of creating a Scale Set
    <li>i) Scale Set provides high availability and application resiliency by distributing VMs across availability zones or fault domains  
    <li>ii) Scale Set distribute equal amount of network traffic
